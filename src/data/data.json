@@ -1,0 +1,138 @@
+{
+    "Header": {
+
+        "title": "We Build Websites",
+        "paragraph": "UNIQUE AND EYECATCHING WEBSITE DESIGNS. THAT INSPIRE, ENGAGE AND DELIEVER RESULTS FOR BUISNESSES"
+
+    },
+    "About": {
+        "paragraph": "NexusWay, as a web designing and development team  in Panipat, Haryana know exactly what needs to be done to be successful online with your website. Deal with a reliable & professional web design and development team in India who are based in the heart of Haryana & have experts in every area of web design, to help make your business succeed. We provide end-to-end comprehensive solutions at competitive rates, which makes us the best website design and development free-lancing team.",
+        "Why": [
+            "Innovative Technologies",
+            "Quality assurance",
+            "Content Management System",
+            "Responsive Design"
+            ,"Happy Client's"
+        ],
+        "Why2": [
+            "Ecommerce Website",
+            "Digital Strategy",
+            "Affordable price",
+            "Search Engine Optimization",
+            "More than 5 year experiance"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-globe",
+            "name": "Web Development",
+            "text": "We have a skilled and professional team for web development. Our team are always ready to provide you trendy  powerful solution to make your website more attractive."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Logo Designing",
+            "text": "Logo designs that help you develop a unique corporate business identity. Our services also assist in building your corporate identity."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Digital Marketing",
+            "text": "With our digital marketing services Like SEO Services, PPC Services we keen to provide you best of our services. All our services are 100% transparent and growth oriented."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Website Domain & Hosting",
+            "text": "We help you choose your best suited Domain and Web hosting server, Help to maintain and deploy websites intended at reasonable cost."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Social Media Handling",
+            "text": "We use social media network's to manage and grow buisnesses by online presence and branding. SMO can be use to increase awareness of new products and services."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Search Engine Optimization",
+            "text": "We improve the quality and quantity of website traffic from search engine like google. SEO targets un-paid organic traffic."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"They have a great expertise, are dedicated, attentive, talented and care much about the client needs. Highly recommended. \"",
+            "name": "Somil Bhatia"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"I hired them for the development of my online store and they have satisfied me to the full by delivering the exceptional solution\"",
+            "name": "Sagar Bathla"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Highly skilled team with an eye for details. We got exactly what we wanted and more. We are looking forward to the next collaboration!\"",
+            "name": "Abhinay Chaubey"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"They listened to us carefully and promised to deliver what we wanted. We are glad to say that they kept their promise.\"",
+            "name": "Abhishek Thakur"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"I  was just amazed at the results which shown an improvement after a month they start working on it.\"",
+            "name": "Jatin Garg"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"With their proven and dedicated marketing efforts, they not only increased my website's traffic but also reduced bounce rate.\"",
+            "name": "Rahul Sharma"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Lakshit Bahl",
+            "job": "Digital Marketing"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Nitin Garg",
+            "job": "Web Developer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jatindar Gujjar",
+            "job": "Web Developer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Sachin Garg",
+            "job": "Web Designer"
+        }
+    ],
+    "Contact": {
+        "address": "845, huda, sector-12, panipat ",
+        "phone": "+91 857 200 8762",
+        "email": "digitalsSolutions@company.com",
+        "facebook": "fb.com",
+        "twitter": "https://instagram.com/team_dev_?igshid=u7md9ebpc546",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Understanding & Analysis",
+            "text": "When you look for Magento development services, it is best to find someone that focuses on understanding your requirements. "
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Development & Testing",
+            "text": "Your Magento store is developed by our expert team on the basis of the specific requirements you share and the industry trends as well."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Deployment & Support",
+            "text": "Finally, we deploy your e-commerce store after being satisfied that it is well-tested and ready to go live..    "
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Search Engine Optimization",
+            "text": "Whether you need a new website or you want to improve an existing one, Easy Web Plans Crafting Beautiful Websites and Digital Experiences to help ambitious Brands grow."
+        }
+    ]
+}
